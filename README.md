@@ -23,7 +23,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Prior programming experience is beneficial but not required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-A system with Python IDe installed.
+A system with Python IDE installed.
 
 ## Related Products
 * [Python for the .NET Developer [Video]](https://www.packtpub.com/application-development/python-net-developer-video?utm_source=github&utm_medium=repository&utm_campaign=9781789807615)
